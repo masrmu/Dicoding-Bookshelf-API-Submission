@@ -13,4 +13,11 @@ Modify details of an existing book by ID.
 ### 5. Update Book
 Remove a book from the collection by its ID.
 
-
+## 📦 Tech Stack
+- JavaScript
+- Hapi Framework – Simplifies API creation with built-in routing and validation.
+- Nanoid – Generates unique, secure IDs for each book.
+- npm – For package and dependency management.
+  
+## 📞 Support
+For any issues, feel free to open an issue in the repository or contact me, Thanks and Happy coding! 🎉.
